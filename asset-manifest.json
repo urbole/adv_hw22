@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/adv_hw22/static/css/main.fefe0106.chunk.css",
+    "main.js": "/adv_hw22/static/js/main.bb4e3b22.chunk.js",
+    "main.js.map": "/adv_hw22/static/js/main.bb4e3b22.chunk.js.map",
+    "runtime-main.js": "/adv_hw22/static/js/runtime-main.20caab81.js",
+    "runtime-main.js.map": "/adv_hw22/static/js/runtime-main.20caab81.js.map",
+    "static/js/2.16533cdd.chunk.js": "/adv_hw22/static/js/2.16533cdd.chunk.js",
+    "static/js/2.16533cdd.chunk.js.map": "/adv_hw22/static/js/2.16533cdd.chunk.js.map",
+    "static/js/3.6e4ed4bf.chunk.js": "/adv_hw22/static/js/3.6e4ed4bf.chunk.js",
+    "static/js/3.6e4ed4bf.chunk.js.map": "/adv_hw22/static/js/3.6e4ed4bf.chunk.js.map",
+    "index.html": "/adv_hw22/index.html",
+    "static/css/main.fefe0106.chunk.css.map": "/adv_hw22/static/css/main.fefe0106.chunk.css.map",
+    "static/js/2.16533cdd.chunk.js.LICENSE.txt": "/adv_hw22/static/js/2.16533cdd.chunk.js.LICENSE.txt",
+    "static/media/checked.ec0c8d21.svg": "/adv_hw22/static/media/checked.ec0c8d21.svg",
+    "static/media/padlock.749d6535.svg": "/adv_hw22/static/media/padlock.749d6535.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20caab81.js",
+    "static/js/2.16533cdd.chunk.js",
+    "static/css/main.fefe0106.chunk.css",
+    "static/js/main.bb4e3b22.chunk.js"
+  ]
+}
