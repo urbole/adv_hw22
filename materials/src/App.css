@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App__buttons {
+  margin: 32px;
+  display: flex;
+  flex-direction: column;
+}
+
+.App__buttonsRow {
+  margin: 16px;
+  display: flex;
+  gap: 16px;
+}

@@ -1,0 +1,25 @@
+.nav_bar_wrapper  {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav_bar_logo_img {
+  height: 5vmin;
+  margin: 0 5vmin 0 0;
+}
+
+.nav_bar_links_list {
+  align-items: center;
+  gap: 2vmin;
+  margin: 0;
+  padding: 0;
+}
+
+.nav_bar_link_item {
+  list-style-type: none;
+}
+
+.nav_bar_link_item a {
+  color: bisque;
+  text-decoration: none
+}

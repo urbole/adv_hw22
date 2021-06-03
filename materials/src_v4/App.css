@@ -1,0 +1,52 @@
+.app_wrapper {
+  margin: 15vmin auto 0 auto;
+  width: 380px;
+  background-color: #0E0E0E;
+  /* border: 1px solid rgb(255, 227, 194); */
+  border-radius: 5px;
+}
+
+/* .app_wrapper::-webkit-scrollbar {
+  width: 0;
+} */
+
+/* .app_header {
+  width: 95%;
+  margin: 0 auto;
+  height: 60px;
+  background-color: inherit;
+  border-style: none;
+  border-bottom: 1px solid bisque;
+  padding: 15px;
+} */
+
+.app_content {
+  padding: 20px;
+
+}
+
+.header_wrapper  {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_logo_img {
+  height: 30px;
+  margin: 0 30px 0 0;
+}
+
+.header_links_list {
+  align-items: center;
+  gap: 2vmin;
+  margin: 0;
+  padding: 0;
+}
+
+.header_link_item {
+  list-style-type: none;
+}
+
+.header_link_item a {
+  color: bisque;
+  text-decoration: none
+}

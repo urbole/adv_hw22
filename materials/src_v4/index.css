@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  background-color: #0E0E0E;
+  color: #fff;
+}
+
+.hw_title {
+  margin: 0;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: bisque;
+}
+
+/* .app_wrapper p {
+  text-align: center;
+  color: bisque;
+
+} */
+
+:active,
+:hover,
+:focus {
+  outline: 0;
+  outline-offset: 0;
+}
+
+.df {
+  display: flex;
+}
+
+.f_w {
+  flex-wrap: wrap;
+}
+
+.fd_c {
+  flex-direction: column;
+}
+
+.fd_r {
+  flex-direction: row;
+}
+
+@media (max-width: 880px) {
+  body {
+    font-size: 14px;
+  }
+}

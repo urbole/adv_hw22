@@ -1,0 +1,13 @@
+.check_box_wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 30px;
+}
+
+.text_for_checkbox {
+  margin-left: 10px;
+  font-size: .95rem;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
